@@ -4,5 +4,5 @@
 
 * My name is Jean-Baptiste, and my github is @jbpasquier
 
-*My name is VÉRONIQUE
-*AND MY GITHUB IS VERO56
+* My name is VÉRONIQUE
+* AND MY GITHUB IS VERO56
