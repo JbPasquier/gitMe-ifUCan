@@ -10,4 +10,6 @@
 * My name is Guillaume, and my githib is @gguesnet
 * My name is Gaelle, and my github is @daedalus418
 * My name is Pascale, and my github is @PascaleB1
+* My name is VÉRONIQUE
+* AND MY GITHUB IS VERO56
 
