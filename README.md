@@ -4,3 +4,4 @@
 
 * My name is Jean-Baptiste, and my github is @jbpasquier
 * My name is Pierre Gaillard, and my github is @pierregaillard1986
+* My name is Jean-Baptiste, and my github is STILL @jbpasquier
