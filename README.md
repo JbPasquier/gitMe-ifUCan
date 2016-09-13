@@ -8,3 +8,4 @@
 * My name is Adrien, and my github is @adrienfloor
 * My name is Jean-Baptiste, and my github is STILL @LOULAPPE
 * My name is Guillaume, and my githib is @gguesnet
+* My name is Gaelle, and my github is @daedalus418
